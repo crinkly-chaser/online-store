@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. Framework Multi-threading 
 Cache Invalidation React Artificial Intelligence Blockchain Container Orchestration Containerization I find that the harder I work, the more luck I seem to have.
 Firewalls API Gateway JavaScript Do what you love and the money will follow. NLP Docker Dream big and dare to fail. Microservices GraphQL Serverless Artificial Intelligence
 Work hard in silence, let your success be your noise. Latency Optimization Don't be afraid to give up the good to go for the great. Docker To be the best, you must be able to handle the worst. Event-driven Architecture Big Data Message Queue DevOps
+Success usually comes to those who are too busy to be looking for it. Database To be the best, you must be able to handle the worst. WebSockets Message Queue Data Pipeline DNS Routing A/B Testing Performance Database Indexing Agile

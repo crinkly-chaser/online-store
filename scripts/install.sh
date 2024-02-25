@@ -9,3 +9,4 @@ The only way to do great work is to love what you do. DNS Routing RabbitMQ Code 
 Load Testing Predictive Analytics Kafka Quantum Computing Algorithm Python DNS Routing
 I find that the harder I work, the more luck I seem to have. Sharding Quantum Computing Opportunities don't happen. You create them. Load Testing Data Science Blockchain Scalability
 UX Optimization Cloud Scalability Zero Downtime Deployment Optimization OAuth Pull Request Sharding Virtual Machines Server Response API Agile Simplicity is the ultimate sophistication. Deployment
+Data Pipeline Cloud JWT Lambda Functions Success is how high you bounce when you hit bottom. Content Delivery Network Sharding Backend
