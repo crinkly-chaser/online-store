@@ -12,3 +12,4 @@ Distributed Systems Kafka Edge Computing Neural Networks Do what you love and th
 Parallel Processing Serverless WebSockets Event Sourcing Difficult roads often lead to beautiful destinations. Microservices
 Distributed Systems API Cloud Functions Lambda Functions Load Testing Cloud Data Pipeline Deployment
 Cloud Functions React Database Indexing API Gateway CI/CD Framework Dream big and dare to fail. Content Delivery Network Predictive Analytics A/B Testing Machine Learning Multi-threading WebSockets Great things never come from comfort zones.
+OAuth Testing I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Monitoring Content Delivery Network The only way to do great work is to love what you do. DNS Routing

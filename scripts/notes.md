@@ -11,3 +11,4 @@ Security API Gateway Innovation distinguishes between a leader and a follower. A
 Python Container Orchestration Lambda Functions Backend Stay hungry, stay foolish. JWT Data Science Microservices Simplicity is the ultimate sophistication. Cloud Logging OAuth Act as if what you do makes a difference. It does. Load Testing Event Sourcing
 CI/CD Zero Downtime Deployment Success is how high you bounce when you hit bottom. IoT Dream big and dare to fail. UX Optimization Neural Networks Serverless Cache Invalidation Container Orchestration Algorithm Event Sourcing Kafka If you can dream it, you can do it. Load Balancing
 Version Control Multi-threading Data Pipeline Cloud IoT Frontend Message Queue
+IoT WebSockets Happiness is not something ready made. It comes from your own actions. Automation Sharding Microservices
