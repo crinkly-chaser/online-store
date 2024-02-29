@@ -13,3 +13,4 @@ Distributed Systems Difficult roads often lead to beautiful destinations. Great 
 Stay hungry, stay foolish. Kubernetes Success usually comes to those who are too busy to be looking for it. Content Delivery Network Distributed Systems Cloud Sharding Microservices Message Queue
 Success doesn’t just find you. You have to go out and get it. A/B Testing DNS Routing Frontend Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Database Indexing Cloud Functions
 Load Balancing Testing Zero Downtime Deployment Firewalls Scalability
+Predictive Analytics Sharding Server Response Docker Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Monitoring
