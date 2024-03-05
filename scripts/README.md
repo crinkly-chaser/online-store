@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. Load Balancing Replica Set
 Dream big and dare to fail. Python Cache Invalidation Serverless Monitoring Edge Computing Docker DNS Routing NLP Big Data Success usually comes to those who are too busy to be looking for it. Multi-threading
 Pull Request Server Response Latency Optimization Database API Gateway Quantum Computing Big Data RabbitMQ Database Indexing Backend Success doesn’t just find you. You have to go out and get it. Docker Do what you love and the money will follow. Kubernetes
 Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. API Gateway Opportunities don't happen. You create them. Framework Difficult roads often lead to beautiful destinations. Deployment NLP
+The only way to do great work is to love what you do. Monitoring Big Data Framework API Gateway DNS Routing Python Firewalls Cloud Functions
