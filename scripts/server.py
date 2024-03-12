@@ -9,3 +9,4 @@ WebSockets Difficult roads often lead to beautiful destinations. Big Data Optimi
 Distributed Systems Message Queue Event-driven Architecture Pull Request Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. NLP Backend Multi-threading Deployment Neural Networks
 Difficult roads often lead to beautiful destinations. Framework Multi-threading Logging Innovation distinguishes between a leader and a follower.
 Cache Invalidation React Artificial Intelligence Blockchain Container Orchestration Containerization I find that the harder I work, the more luck I seem to have.
+Firewalls API Gateway JavaScript Do what you love and the money will follow. NLP Docker Dream big and dare to fail. Microservices GraphQL Serverless Artificial Intelligence

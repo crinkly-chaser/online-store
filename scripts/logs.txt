@@ -12,3 +12,4 @@ Cloud Functions Data Pipeline Backend Version Control Opportunities don't happen
 Logging GraphQL Success doesn’t just find you. You have to go out and get it. A/B Testing API Predictive Analytics
 CI/CD Predictive Analytics Blockchain Success doesn’t just find you. You have to go out and get it. Containerization
 Python Kafka Code Review I find that the harder I work, the more luck I seem to have. Agile JWT Kubernetes Performance Success is how high you bounce when you hit bottom. Sharding
+Zero Downtime Deployment Replica Set Algorithm Python Docker
