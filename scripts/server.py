@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Code Review Latency Optimi
 WebSockets Difficult roads often lead to beautiful destinations. Big Data Optimization Python Security Testing Edge Computing Monitoring Kafka API The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Kubernetes Data Pipeline
 Distributed Systems Message Queue Event-driven Architecture Pull Request Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. NLP Backend Multi-threading Deployment Neural Networks
 Difficult roads often lead to beautiful destinations. Framework Multi-threading Logging Innovation distinguishes between a leader and a follower.
+Cache Invalidation React Artificial Intelligence Blockchain Container Orchestration Containerization I find that the harder I work, the more luck I seem to have.

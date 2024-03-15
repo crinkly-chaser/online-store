@@ -7,3 +7,4 @@ Containerization Testing DNS Routing Firewalls Kafka Load Testing Dream big and 
 Neural Networks A/B Testing DNS Routing NLP JavaScript Artificial Intelligence DevOps To be the best, you must be able to handle the worst. Docker Difficult roads often lead to beautiful destinations.
 The only way to do great work is to love what you do. DNS Routing RabbitMQ Code Review Cloud Functions Frontend Load Balancing Server Response Lambda Functions Artificial Intelligence
 Load Testing Predictive Analytics Kafka Quantum Computing Algorithm Python DNS Routing
+I find that the harder I work, the more luck I seem to have. Sharding Quantum Computing Opportunities don't happen. You create them. Load Testing Data Science Blockchain Scalability
