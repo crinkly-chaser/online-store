@@ -12,3 +12,4 @@ Don't be afraid to give up the good to go for the great. UX Optimization Happine
 Version Control Dream big and dare to fail. Cloud Functions Pull Request Python Edge Computing Neural Networks
 JWT Cache Invalidation Artificial Intelligence Load Balancing Great things never come from comfort zones. Python Machine Learning JavaScript
 Monitoring Security Deployment Opportunities don't happen. You create them. Performance Artificial Intelligence If you can dream it, you can do it. Load Testing React Event-driven Architecture A/B Testing NLP I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. JavaScript
+Version Control Performance Data Science Don't be afraid to give up the good to go for the great. Event-driven Architecture Content Delivery Network If you can dream it, you can do it. Automation
