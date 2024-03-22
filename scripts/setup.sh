@@ -11,3 +11,4 @@ Pull Request Great things never come from comfort zones. JWT OAuth Virtual Machi
 Distributed Systems Kafka Edge Computing Neural Networks Do what you love and the money will follow. DNS Routing If you can dream it, you can do it.
 Parallel Processing Serverless WebSockets Event Sourcing Difficult roads often lead to beautiful destinations. Microservices
 Distributed Systems API Cloud Functions Lambda Functions Load Testing Cloud Data Pipeline Deployment
+Cloud Functions React Database Indexing API Gateway CI/CD Framework Dream big and dare to fail. Content Delivery Network Predictive Analytics A/B Testing Machine Learning Multi-threading WebSockets Great things never come from comfort zones.
