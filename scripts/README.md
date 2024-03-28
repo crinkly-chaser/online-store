@@ -11,3 +11,4 @@ GraphQL Opportunities don't happen. You create them. Innovation distinguishes be
 Dream big and dare to fail. Serverless NLP Backend Message Queue Container Orchestration Logging GraphQL WebSockets Virtual Machines
 Monitoring Logging Cache Invalidation Neural Networks Success usually comes to those who are too busy to be looking for it. JWT
 The only way to do great work is to love what you do. Load Balancing Replica Set To be the best, you must be able to handle the worst. OAuth Work hard in silence, let your success be your noise. Pull Request
+Dream big and dare to fail. Python Cache Invalidation Serverless Monitoring Edge Computing Docker DNS Routing NLP Big Data Success usually comes to those who are too busy to be looking for it. Multi-threading

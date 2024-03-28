@@ -5,3 +5,4 @@ API Gateway Version Control Backend Event-driven Architecture Containerization A
 Load Balancing Big Data NLP Simplicity is the ultimate sophistication. Event-driven Architecture
 Database Cloud Quantum Computing Event-driven Architecture Server Response Success is how high you bounce when you hit bottom. Containerization RabbitMQ Firewalls Content Delivery Network Success is not in what you have, but who you are.
 Machine Learning Zero Downtime Deployment Sharding Database Indexing Optimization Cloud Functions Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Version Control Data Science NLP Act as if what you do makes a difference. It does.
+JavaScript Work hard in silence, let your success be your noise. API Lambda Functions Success doesn’t just find you. You have to go out and get it.

@@ -12,3 +12,4 @@ Great things never come from comfort zones. Big Data Latency Optimization API Mo
 Dream big and dare to fail. IoT Lambda Functions Success is not in what you have, but who you are. Data Science Frontend Algorithm OAuth Cloud Functions Replica Set
 Python Great things never come from comfort zones. Success is not in what you have, but who you are. Kafka Performance WebSockets Data Science Cache Invalidation API Gateway Microservices Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it.
 Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Data Pipeline Scalability Edge Computing Framework CI/CD JWT
+API Gateway Load Testing Machine Learning Message Queue CI/CD JWT

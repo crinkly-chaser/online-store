@@ -7,3 +7,4 @@ Load Testing Kafka Dream big and dare to fail. Framework Great things never come
 JavaScript IoT Machine Learning Cache Invalidation Cloud Functions
 Lambda Functions GraphQL Kafka Docker Frontend Python Opportunities don't happen. You create them.
 Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Quantum Computing Version Control To be the best, you must be able to handle the worst. Microservices Don't be afraid to give up the good to go for the great. Scalability Event Sourcing Database Indexing React IoT Kubernetes Backend
+Innovation distinguishes between a leader and a follower. Kafka Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Monitoring Success is how high you bounce when you hit bottom. Automation Great things never come from comfort zones. Pull Request Container Orchestration JavaScript
