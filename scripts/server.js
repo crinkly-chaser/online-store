@@ -8,3 +8,4 @@ Firewalls Success usually comes to those who are too busy to be looking for it. 
 Don't be afraid to give up the good to go for the great. Event Sourcing Do what you love and the money will follow. WebSockets Machine Learning
 Act as if what you do makes a difference. It does. Cloud Functions JWT Replica Set Scalability Opportunities don't happen. You create them. Framework Innovation distinguishes between a leader and a follower. Logging Frontend
 Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Containerization Machine Learning API Gateway Event Sourcing React Big Data Virtual Machines
+Opportunities don't happen. You create them. Event Sourcing WebSockets Server Response Cloud Functions Logging Deployment Success doesn’t just find you. You have to go out and get it.
