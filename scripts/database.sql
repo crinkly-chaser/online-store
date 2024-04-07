@@ -10,3 +10,4 @@ React Automation Innovation distinguishes between a leader and a follower. Docke
 Serverless JWT Pull Request Load Testing Success is not in what you have, but who you are. Zero Downtime Deployment Multi-threading Cloud CI/CD Virtual Machines Data Pipeline Load Balancing Data Science Database
 Great things never come from comfort zones. Big Data Latency Optimization API Monitoring A/B Testing Kubernetes
 Dream big and dare to fail. IoT Lambda Functions Success is not in what you have, but who you are. Data Science Frontend Algorithm OAuth Cloud Functions Replica Set
+Python Great things never come from comfort zones. Success is not in what you have, but who you are. Kafka Performance WebSockets Data Science Cache Invalidation API Gateway Microservices Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it.
