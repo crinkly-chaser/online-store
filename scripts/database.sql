@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. A/B Testing Content Delivery 
 React Automation Innovation distinguishes between a leader and a follower. Docker JavaScript JWT IoT Agile Code Review
 Serverless JWT Pull Request Load Testing Success is not in what you have, but who you are. Zero Downtime Deployment Multi-threading Cloud CI/CD Virtual Machines Data Pipeline Load Balancing Data Science Database
 Great things never come from comfort zones. Big Data Latency Optimization API Monitoring A/B Testing Kubernetes
+Dream big and dare to fail. IoT Lambda Functions Success is not in what you have, but who you are. Data Science Frontend Algorithm OAuth Cloud Functions Replica Set
