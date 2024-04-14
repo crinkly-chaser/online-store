@@ -10,3 +10,4 @@ Python Code Review A/B Testing Logging Simplicity is the ultimate sophistication
 Docker Predictive Analytics Firewalls Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Agile Virtual Machines Kafka Pull Request Security Cloud UX Optimization
 Cloud Functions Data Pipeline Backend Version Control Opportunities don't happen. You create them. Load Testing API Gateway Kubernetes Work hard in silence, let your success be your noise. JavaScript Docker
 Logging GraphQL Success doesn’t just find you. You have to go out and get it. A/B Testing API Predictive Analytics
+CI/CD Predictive Analytics Blockchain Success doesn’t just find you. You have to go out and get it. Containerization
