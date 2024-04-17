@@ -10,3 +10,4 @@ Optimization Big Data Agile Load Testing Success is how high you bounce when you
 Content Delivery Network Database Indexing Server Response React Load Balancing Event Sourcing DevOps Database Virtual Machines Work hard in silence, let your success be your noise. Event-driven Architecture Big Data
 Don't be afraid to give up the good to go for the great. UX Optimization Happiness is not something ready made. It comes from your own actions. React Version Control DNS Routing Docker Dream big and dare to fail.
 Version Control Dream big and dare to fail. Cloud Functions Pull Request Python Edge Computing Neural Networks
+JWT Cache Invalidation Artificial Intelligence Load Balancing Great things never come from comfort zones. Python Machine Learning JavaScript

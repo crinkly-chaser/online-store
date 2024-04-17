@@ -12,3 +12,4 @@ Neural Networks A/B Testing Zero Downtime Deployment Don't be afraid to give up 
 A/B Testing Stay hungry, stay foolish. Content Delivery Network Database Replica Set
 Replica Set Database Indexing API Gateway GraphQL DNS Routing Data Pipeline Database WebSockets Backend
 Frontend Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Sharding React
+Database Indexing Sharding Content Delivery Network Parallel Processing Automation Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. API Zero Downtime Deployment To be the best, you must be able to handle the worst. Virtual Machines Distributed Systems Event Sourcing Blockchain Message Queue

@@ -6,3 +6,4 @@ Kubernetes Cloud Cloud Functions Event Sourcing Content Delivery Network A/B Tes
 Containerization Testing DNS Routing Firewalls Kafka Load Testing Dream big and dare to fail.
 Neural Networks A/B Testing DNS Routing NLP JavaScript Artificial Intelligence DevOps To be the best, you must be able to handle the worst. Docker Difficult roads often lead to beautiful destinations.
 The only way to do great work is to love what you do. DNS Routing RabbitMQ Code Review Cloud Functions Frontend Load Balancing Server Response Lambda Functions Artificial Intelligence
+Load Testing Predictive Analytics Kafka Quantum Computing Algorithm Python DNS Routing
