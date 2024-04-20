@@ -9,3 +9,4 @@ Algorithm JavaScript Quantum Computing OAuth Data Pipeline To be the best, you m
 If you can dream it, you can do it. IoT Code Review I find that the harder I work, the more luck I seem to have. JavaScript Database Performance Security Cloud Functions Predictive Analytics
 Data Science Content Delivery Network Python React Firewalls Container Orchestration Difficult roads often lead to beautiful destinations. Optimization
 Message Queue Container Orchestration Pull Request Version Control Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. IoT Agile
+Distributed Systems Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Cloud Big Data Cloud Functions Firewalls Success is not in what you have, but who you are. Automation
