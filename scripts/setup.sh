@@ -8,3 +8,4 @@ Success doesn’t just find you. You have to go out and get it. I find that the ha
 React Agile I find that the harder I work, the more luck I seem to have. Kafka Automation JavaScript Version Control
 API Gateway Distributed Systems Kubernetes Security CI/CD Difficult roads often lead to beautiful destinations.
 Pull Request Great things never come from comfort zones. JWT OAuth Virtual Machines Firewalls Neural Networks Serverless Agile Predictive Analytics Microservices Kubernetes Sharding IoT Quantum Computing
+Distributed Systems Kafka Edge Computing Neural Networks Do what you love and the money will follow. DNS Routing If you can dream it, you can do it.
