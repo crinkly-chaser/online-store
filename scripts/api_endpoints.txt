@@ -4,3 +4,4 @@ Load Balancing WebSockets Code Review Monitoring Data Science Kubernetes Quantum
 Version Control Monitoring Deployment Difficult roads often lead to beautiful destinations. Event Sourcing Docker
 Great things never come from comfort zones. Database Indexing Virtual Machines Docker DevOps Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. React Zero Downtime Deployment Kubernetes
 Load Testing Kafka Dream big and dare to fail. Framework Great things never come from comfort zones. Server Response DevOps CI/CD JavaScript Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
+JavaScript IoT Machine Learning Cache Invalidation Cloud Functions
