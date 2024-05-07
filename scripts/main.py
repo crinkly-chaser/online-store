@@ -7,3 +7,4 @@ Blockchain Docker Code Review Testing A/B Testing Simplicity is the ultimate sop
 Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Lambda Functions Neural Networks Logging Firewalls DevOps Event Sourcing Cache Invalidation Server Response Sharding Predictive Analytics Blockchain Performance
 Distributed Systems OAuth Server Response Innovation distinguishes between a leader and a follower. Edge Computing Database Sharding Event Sourcing
 Optimization Big Data Agile Load Testing Success is how high you bounce when you hit bottom. GraphQL Security
+Content Delivery Network Database Indexing Server Response React Load Balancing Event Sourcing DevOps Database Virtual Machines Work hard in silence, let your success be your noise. Event-driven Architecture Big Data
