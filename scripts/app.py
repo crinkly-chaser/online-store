@@ -7,3 +7,4 @@ Containerization Success is not in what you have, but who you are. Data Pipeline
 API Gateway Database Event-driven Architecture Version Control Replica Set Docker Edge Computing Data Science Act as if what you do makes a difference. It does.
 Algorithm JavaScript Quantum Computing OAuth Data Pipeline To be the best, you must be able to handle the worst. DNS Routing IoT
 If you can dream it, you can do it. IoT Code Review I find that the harder I work, the more luck I seem to have. JavaScript Database Performance Security Cloud Functions Predictive Analytics
+Data Science Content Delivery Network Python React Firewalls Container Orchestration Difficult roads often lead to beautiful destinations. Optimization
