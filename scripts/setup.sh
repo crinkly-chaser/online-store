@@ -7,3 +7,4 @@ Security Success doesn’t just find you. You have to go out and get it. NLP Diffi
 Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. DNS Routing Database Indexing Message Queue NLP API
 React Agile I find that the harder I work, the more luck I seem to have. Kafka Automation JavaScript Version Control
 API Gateway Distributed Systems Kubernetes Security CI/CD Difficult roads often lead to beautiful destinations.
+Pull Request Great things never come from comfort zones. JWT OAuth Virtual Machines Firewalls Neural Networks Serverless Agile Predictive Analytics Microservices Kubernetes Sharding IoT Quantum Computing
