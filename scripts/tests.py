@@ -12,3 +12,4 @@ Do what you love and the money will follow. DevOps Act as if what you do makes a
 OAuth Security Containerization Success is not in what you have, but who you are. Multi-threading Machine Learning Data Pipeline Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Automation Cloud
 OAuth Great things never come from comfort zones. Backend Innovation distinguishes between a leader and a follower. Event-driven Architecture
 Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. DevOps Blockchain Success is not in what you have, but who you are. Distributed Systems Dream big and dare to fail.
+Success is how high you bounce when you hit bottom. Message Queue Parallel Processing Edge Computing Success usually comes to those who are too busy to be looking for it. Big Data Monitoring CI/CD Do what you love and the money will follow. Multi-threading Scalability
