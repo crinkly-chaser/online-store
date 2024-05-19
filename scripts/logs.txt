@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. Cloud Cloud Functions Big Data OAut
 API Virtual Machines Machine Learning Deployment Distributed Systems Act as if what you do makes a difference. It does.
 DNS Routing To be the best, you must be able to handle the worst. API Gateway Act as if what you do makes a difference. It does. Deployment OAuth Content Delivery Network Opportunities don't happen. You create them. Data Pipeline Blockchain GraphQL Event Sourcing Algorithm Big Data
 Python Code Review A/B Testing Logging Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. If you can dream it, you can do it. JWT
+Docker Predictive Analytics Firewalls Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Agile Virtual Machines Kafka Pull Request Security Cloud UX Optimization
