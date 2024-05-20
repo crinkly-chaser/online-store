@@ -6,3 +6,4 @@ Server Response A/B Testing Success is how high you bounce when you hit bottom. 
 Blockchain Docker Code Review Testing A/B Testing Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Firewalls Do what you love and the money will follow.
 Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Lambda Functions Neural Networks Logging Firewalls DevOps Event Sourcing Cache Invalidation Server Response Sharding Predictive Analytics Blockchain Performance
 Distributed Systems OAuth Server Response Innovation distinguishes between a leader and a follower. Edge Computing Database Sharding Event Sourcing
+Optimization Big Data Agile Load Testing Success is how high you bounce when you hit bottom. GraphQL Security
