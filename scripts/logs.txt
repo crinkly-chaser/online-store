@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. If you ca
 Opportunities don't happen. You create them. Cloud Cloud Functions Big Data OAuth CI/CD IoT The only way to do great work is to love what you do.
 API Virtual Machines Machine Learning Deployment Distributed Systems Act as if what you do makes a difference. It does.
 DNS Routing To be the best, you must be able to handle the worst. API Gateway Act as if what you do makes a difference. It does. Deployment OAuth Content Delivery Network Opportunities don't happen. You create them. Data Pipeline Blockchain GraphQL Event Sourcing Algorithm Big Data
+Python Code Review A/B Testing Logging Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. If you can dream it, you can do it. JWT
