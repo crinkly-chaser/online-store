@@ -5,3 +5,4 @@ Agile Work hard in silence, let your success be your noise. Optimization Server 
 Quantum Computing A/B Testing Scalability Simplicity is the ultimate sophistication. Containerization Predictive Analytics
 Frontend Big Data Distributed Systems Data Science Security Container Orchestration Predictive Analytics
 The only way to do great work is to love what you do. Code Review Latency Optimization Act as if what you do makes a difference. It does. API Gateway Microservices Great things never come from comfort zones.
+WebSockets Difficult roads often lead to beautiful destinations. Big Data Optimization Python Security Testing Edge Computing Monitoring Kafka API The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Kubernetes Data Pipeline
