@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Success usually comes 
 Cache Invalidation Backend Do what you love and the money will follow. Artificial Intelligence Work hard in silence, let your success be your noise. Multi-threading
 DevOps Agile Cloud Functions Kafka Stay hungry, stay foolish. Database Indexing JWT RabbitMQ Message Queue React
 Neural Networks A/B Testing Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Replica Set Logging Testing Agile Monitoring Load Balancing IoT Predictive Analytics Performance Machine Learning To be the best, you must be able to handle the worst.
+A/B Testing Stay hungry, stay foolish. Content Delivery Network Database Replica Set
