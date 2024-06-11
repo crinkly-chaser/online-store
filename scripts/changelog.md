@@ -8,3 +8,4 @@ Deployment JWT Python Kafka Server Response Kubernetes Code Review Happiness is 
 Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Predictive Analytics Database React Act as if what you do makes a difference. It does. Sharding
 Cache Invalidation Backend Do what you love and the money will follow. Artificial Intelligence Work hard in silence, let your success be your noise. Multi-threading
 DevOps Agile Cloud Functions Kafka Stay hungry, stay foolish. Database Indexing JWT RabbitMQ Message Queue React
+Neural Networks A/B Testing Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Replica Set Logging Testing Agile Monitoring Load Balancing IoT Predictive Analytics Performance Machine Learning To be the best, you must be able to handle the worst.
