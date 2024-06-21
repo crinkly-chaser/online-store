@@ -7,3 +7,4 @@ Pull Request If you can dream it, you can do it. Simplicity is the ultimate soph
 Deployment JWT Python Kafka Server Response Kubernetes Code Review Happiness is not something ready made. It comes from your own actions. Backend Success is how high you bounce when you hit bottom. Optimization Work hard in silence, let your success be your noise. Algorithm
 Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Predictive Analytics Database React Act as if what you do makes a difference. It does. Sharding
 Cache Invalidation Backend Do what you love and the money will follow. Artificial Intelligence Work hard in silence, let your success be your noise. Multi-threading
+DevOps Agile Cloud Functions Kafka Stay hungry, stay foolish. Database Indexing JWT RabbitMQ Message Queue React
