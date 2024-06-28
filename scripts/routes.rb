@@ -8,3 +8,4 @@ Data Science Don't be afraid to give up the good to go for the great. API Automa
 Event Sourcing JWT Security Cloud Functions Pull Request Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.
 OAuth API Gateway Deployment RabbitMQ Optimization Agile WebSockets Docker Microservices Code Review Dream big and dare to fail. Database Indexing Data Science
 Scalability Work hard in silence, let your success be your noise. UX Optimization Kafka Data Science Success is not in what you have, but who you are. Load Testing Cache Invalidation Dream big and dare to fail. Python Sharding Performance
+Performance JavaScript Do what you love and the money will follow. Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Framework NLP IoT Event-driven Architecture API Gateway Cloud Functions Load Balancing
