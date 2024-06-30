@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. The only way to do 
 Data Science Don't be afraid to give up the good to go for the great. API Automation RabbitMQ Zero Downtime Deployment Kubernetes Python API Gateway
 Event Sourcing JWT Security Cloud Functions Pull Request Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.
 OAuth API Gateway Deployment RabbitMQ Optimization Agile WebSockets Docker Microservices Code Review Dream big and dare to fail. Database Indexing Data Science
+Scalability Work hard in silence, let your success be your noise. UX Optimization Kafka Data Science Success is not in what you have, but who you are. Load Testing Cache Invalidation Dream big and dare to fail. Python Sharding Performance
