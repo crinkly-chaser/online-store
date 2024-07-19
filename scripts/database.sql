@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. Algorithm Machine Learning Sim
 To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. React Deployment OAuth Do what you love and the money will follow.
 Predictive Analytics Deployment Event-driven Architecture OAuth Edge Computing NLP Happiness is not something ready made. It comes from your own actions. API Gateway
 Act as if what you do makes a difference. It does. A/B Testing Content Delivery Network Simplicity is the ultimate sophistication. NLP API Gateway Logging WebSockets Replica Set Opportunities don't happen. You create them. Firewalls Event-driven Architecture Data Pipeline
+React Automation Innovation distinguishes between a leader and a follower. Docker JavaScript JWT IoT Agile Code Review

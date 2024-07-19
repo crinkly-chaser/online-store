@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Co
 Server Response JavaScript Scalability Sharding Database Indexing GraphQL Performance
 Firewalls Big Data Scalability Cache Invalidation API Gateway Algorithm
 Success doesn’t just find you. You have to go out and get it. Database Indexing Microservices Innovation distinguishes between a leader and a follower. Lambda Functions DevOps RabbitMQ Framework A/B Testing Parallel Processing Great things never come from comfort zones. Simplicity is the ultimate sophistication. Cloud
+Message Queue Backend Predictive Analytics Load Testing Cloud Event Sourcing Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Frontend GraphQL Content Delivery Network Success usually comes to those who are too busy to be looking for it.
