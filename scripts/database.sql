@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Event Sourcing Kubernetes If y
 Do what you love and the money will follow. DNS Routing Innovation distinguishes between a leader and a follower. Data Pipeline Work hard in silence, let your success be your noise. Load Balancing Lambda Functions Logging
 Success is not in what you have, but who you are. Algorithm Machine Learning Simplicity is the ultimate sophistication. Container Orchestration Artificial Intelligence Cache Invalidation
 To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. React Deployment OAuth Do what you love and the money will follow.
+Predictive Analytics Deployment Event-driven Architecture OAuth Edge Computing NLP Happiness is not something ready made. It comes from your own actions. API Gateway
