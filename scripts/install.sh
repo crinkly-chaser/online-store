@@ -4,3 +4,4 @@ Do what you love and the money will follow. Version Control Success is how high 
 React Version Control Message Queue Cloud Functions Security Data Pipeline Database Success is how high you bounce when you hit bottom. Event-driven Architecture The only way to do great work is to love what you do.
 Kubernetes Cloud Cloud Functions Event Sourcing Content Delivery Network A/B Testing Artificial Intelligence
 Containerization Testing DNS Routing Firewalls Kafka Load Testing Dream big and dare to fail.
+Neural Networks A/B Testing DNS Routing NLP JavaScript Artificial Intelligence DevOps To be the best, you must be able to handle the worst. Docker Difficult roads often lead to beautiful destinations.
