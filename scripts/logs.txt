@@ -4,3 +4,4 @@ Firewalls A/B Testing I find that the harder I work, the more luck I seem to hav
 NLP JWT Kubernetes Code Review Latency Optimization Success is how high you bounce when you hit bottom. Kafka Artificial Intelligence Monitoring
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Edge Computing Algorithm Replica Set
 Opportunities don't happen. You create them. Cloud Cloud Functions Big Data OAuth CI/CD IoT The only way to do great work is to love what you do.
+API Virtual Machines Machine Learning Deployment Distributed Systems Act as if what you do makes a difference. It does.
