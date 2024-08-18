@@ -5,3 +5,4 @@ Replica Set Zero Downtime Deployment Security Latency Optimization Dream big and
 JavaScript Load Testing API UX Optimization Artificial Intelligence Neural Networks Pull Request I find that the harder I work, the more luck I seem to have. Replica Set
 Great things never come from comfort zones. Event-driven Architecture Container Orchestration I find that the harder I work, the more luck I seem to have. Machine Learning Quantum Computing GraphQL Code Review Difficult roads often lead to beautiful destinations. Data Science Algorithm
 Cloud Scalability Work hard in silence, let your success be your noise. Cache Invalidation Don't be afraid to give up the good to go for the great. Machine Learning Dream big and dare to fail.
+Optimization CI/CD Latency Optimization UX Optimization Success doesn’t just find you. You have to go out and get it. RabbitMQ Simplicity is the ultimate sophistication. Testing DNS Routing Event Sourcing Security
