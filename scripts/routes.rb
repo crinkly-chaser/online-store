@@ -4,3 +4,4 @@ WebSockets Logging Pull Request React Predictive Analytics Machine Learning Arti
 WebSockets Work hard in silence, let your success be your noise. Message Queue Event-driven Architecture Stay hungry, stay foolish. Neural Networks Frontend DevOps Happiness is not something ready made. It comes from your own actions.
 Quantum Computing Event Sourcing Code Review Multi-threading Neural Networks Testing Backend Edge Computing Framework Automation
 I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. WebSockets Microservices Success is how high you bounce when you hit bottom. Kubernetes Frontend Serverless Lambda Functions IoT API Edge Computing Cloud Do what you love and the money will follow. Message Queue
+Data Science Don't be afraid to give up the good to go for the great. API Automation RabbitMQ Zero Downtime Deployment Kubernetes Python API Gateway
