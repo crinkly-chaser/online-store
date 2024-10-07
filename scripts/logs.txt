@@ -3,3 +3,4 @@ Message Queue Machine Learning Load Testing Data Pipeline Database Security Do w
 Firewalls A/B Testing I find that the harder I work, the more luck I seem to have. Version Control React The only way to do great work is to love what you do. Predictive Analytics DNS Routing
 NLP JWT Kubernetes Code Review Latency Optimization Success is how high you bounce when you hit bottom. Kafka Artificial Intelligence Monitoring
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Edge Computing Algorithm Replica Set
+Opportunities don't happen. You create them. Cloud Cloud Functions Big Data OAuth CI/CD IoT The only way to do great work is to love what you do.
