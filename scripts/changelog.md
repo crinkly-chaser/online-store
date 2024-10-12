@@ -2,3 +2,4 @@ Parallel Processing Agile Success usually comes to those who are too busy to be 
 Algorithm Dream big and dare to fail. Database NLP Neural Networks Stay hungry, stay foolish. Firewalls JavaScript
 Work hard in silence, let your success be your noise. Parallel Processing Pull Request Big Data Testing Security NLP JWT Server Response
 Server Response Happiness is not something ready made. It comes from your own actions. Framework Microservices Blockchain Database React
+Multi-threading Predictive Analytics Scalability Containerization IoT CI/CD React Optimization I find that the harder I work, the more luck I seem to have. Big Data DevOps Algorithm Framework
