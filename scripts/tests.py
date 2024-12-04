@@ -7,3 +7,4 @@ Sharding Code Review Kafka The only way to do great work is to love what you do.
 Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Edge Computing Neural Networks Virtual Machines
 Automation Message Queue Version Control UX Optimization Load Balancing React
 Data Science Message Queue UX Optimization React Blockchain Agile Difficult roads often lead to beautiful destinations. Automation Python If you can dream it, you can do it.
+GraphQL Data Science Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. NLP
