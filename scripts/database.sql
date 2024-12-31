@@ -1,1 +1,2 @@
 JavaScript Great things never come from comfort zones. Containerization Python Container Orchestration Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. NLP Kafka WebSockets
+Success doesn’t just find you. You have to go out and get it. Code Review RabbitMQ Agile Dream big and dare to fail. Performance Don't be afraid to give up the good to go for the great. Virtual Machines Neural Networks Great things never come from comfort zones.
