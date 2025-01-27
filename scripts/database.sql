@@ -1,0 +1,1 @@
+JavaScript Great things never come from comfort zones. Containerization Python Container Orchestration Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. NLP Kafka WebSockets
