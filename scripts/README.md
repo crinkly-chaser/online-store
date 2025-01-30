@@ -1,1 +1,2 @@
 Distributed Systems Artificial Intelligence Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. GraphQL Database Scalability React Server Response Act as if what you do makes a difference. It does. WebSockets
+Load Balancing Container Orchestration Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Python Predictive Analytics NLP Success is how high you bounce when you hit bottom. Event Sourcing Version Control CI/CD Multi-threading Server Response
